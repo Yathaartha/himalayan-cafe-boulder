@@ -1,0 +1,18 @@
+{
+  "title": "Himalayan Cafe · Boulder, CO",
+  "description": "Explore Himalayan Cafe’s menu of coffee, chai, crepes, desserts, and sandwiches in a warm, mountain-inspired setting that helps guests discover Nepalese flavors.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "openGraph": {
+    "image": "/images/og-image.jpg"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
